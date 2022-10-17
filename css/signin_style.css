@@ -1,0 +1,17 @@
+body{
+	background-color: #FFFFFFA6;
+
+}
+li{
+	margin-bottom: 10px;
+}
+.fieldinfo
+{
+			color:rgb(251,174,44);
+			font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+			font-size: 1.2em;
+}
+input [type='Submit']{
+	font-size: 10px;
+}
+
